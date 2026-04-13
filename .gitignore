@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+env/
+environment/
+virtual/
+creates/
+*/lib/python*/
+#/
+
+# Data files
+data/raw/
+data/processed/
+
+# Python clutter
+__pycache__/
+*.pyc
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
