@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ## Run
 Execute notebooks in order:
-1. notebooks/01_eda.ipynb
+1. notebooks/01_data_exploration.ipynb
 2. notebooks/02_features.ipynb
 3. notebooks/03_models.ipynb
 4. notebooks/04_results.ipynb
